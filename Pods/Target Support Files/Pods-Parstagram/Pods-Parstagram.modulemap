@@ -1,5 +1,5 @@
-framework module Pods_Parstagram {
-  umbrella header "Pods-Parstagram-umbrella.h"
+framework module Pods_Dogstagram {
+  umbrella header "Pods-Dogstagram-umbrella.h"
 
   export *
   module * { export * }

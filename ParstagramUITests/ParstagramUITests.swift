@@ -1,13 +1,13 @@
 //
-//  ParstagramUITests.swift
-//  ParstagramUITests
+//  DogstagramUITests.swift
+//  DogstagramUITests
 //
 //  Created by Wilbert Fundira on 3/20/22.
 //
 
 import XCTest
 
-class ParstagramUITests: XCTestCase {
+class DogstagramUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

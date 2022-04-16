@@ -1,13 +1,13 @@
 //
-//  ParstagramUITestsLaunchTests.swift
-//  ParstagramUITests
+//  DogstagramUITestsLaunchTests.swift
+//  DogstagramUITests
 //
 //  Created by Wilbert Fundira on 3/20/22.
 //
 
 import XCTest
 
-class ParstagramUITestsLaunchTests: XCTestCase {
+class DogstagramUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

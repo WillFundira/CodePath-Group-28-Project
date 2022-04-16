@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_ParstagramVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_ParstagramVersionString[];
+FOUNDATION_EXPORT double Pods_DogstagramVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_DogstagramVersionString[];
 
