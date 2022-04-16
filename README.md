@@ -1,5 +1,9 @@
 # CodePath-Group-28-Project
 
+Working Gif Progress
+
+<img src='http://g.recordit.co/6tSzt2DmUQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 https://hackmd.io/1kGLHJQnRsWv8mEe-K0C_g
 
 Original App Design Project - README Template
@@ -62,6 +66,8 @@ Instagram like app that allows users to post photos of their dogs and allows fol
 **Tab Navigation** (Tab to Screen)
 
 * 2 tabs: feed, profile
+
+
 
 **Flow Navigation** (Screen to Screen)
 
