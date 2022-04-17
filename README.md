@@ -81,8 +81,6 @@ Instagram like app that allows users to post photos of their dogs and allows fol
 * add a photoa
     * feed
     * gallery
-* profile
-    * feed
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
