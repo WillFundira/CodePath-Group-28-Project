@@ -37,10 +37,11 @@ Instagram like app that allows users to post photos of their dogs and allows fol
 **Required Must-have Stories**
 
 *  [x]login/logout/signup
+*  [x]stay logged in across restarts
 *  scroll through feed of other users post
-*  post a photo
-*  comments
-*  add custom reactions to photos
+*  [x]post a photo
+*  [x]comments
+*  [x]xadd  reactions to photos
 * ...
 
 **Optional Nice-to-have Stories**
