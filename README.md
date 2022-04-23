@@ -3,6 +3,9 @@
 Working Gif Progress
 
 <img src='http://g.recordit.co/F4SzRQKKxj.gif' width='' alt='Video Walkthrough' />
+
+<img src='http://g.recordit.co/YBO7qUcKnu.gif' width='' alt='Video Walkthrough' />
+
 https://hackmd.io/1kGLHJQnRsWv8mEe-K0C_g
 
 Original App Design Project - README Template
