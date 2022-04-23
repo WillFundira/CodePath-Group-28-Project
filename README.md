@@ -2,7 +2,7 @@
 
 Working Gif Progress
 
-<img src='http://g.recordit.co/6tSzt2DmUQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/F4SzRQKKxj.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 https://hackmd.io/1kGLHJQnRsWv8mEe-K0C_g
 
