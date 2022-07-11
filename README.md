@@ -1,4 +1,4 @@
-# CodePath-Group-28-Project
+# Dogstagram
 
 Working Gif Progress
 
