@@ -1,6 +1,6 @@
 # Dogstagram
 
-Working Gif Progress
+Final Product
 
 <img src='http://g.recordit.co/F4SzRQKKxj.gif' width='' alt='Video Walkthrough' />
 
