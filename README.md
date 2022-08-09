@@ -24,7 +24,7 @@ Original App Design Project - README Template
 Instagram like app that allows users to post photos of their dogs and allows followers to interact with posts. 
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category:** Social
 - **Mobile:** Allows users to post and view photos
 - **Story:** Allows users to share cute photos of their dogs to their friends
@@ -86,18 +86,13 @@ Instagram like app that allows users to post photos of their dogs and allows fol
     * gallery
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
 
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- [ List endpoints if using existing API such as Yelp]
